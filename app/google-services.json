@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "580652242447",
+    "firebase_url": "https://inclassassignment09.firebaseio.com",
+    "project_id": "inclassassignment09",
+    "storage_bucket": "inclassassignment09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580652242447:android:b3c32a9c87c15629",
+        "android_client_info": {
+          "package_name": "net.jptechnology.android.inclassassignment09_johnp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580652242447-6p6c87vc7ogk0t9dmqun3vgptcicjjs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqyNY-bkdKws7_N_hs1aYHBg6nIRoU49w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580652242447:android:d3539ce07ccd5367",
+        "android_client_info": {
+          "package_name": "net.jptechnology.android.takehomeassignment11_johnp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580652242447-6p6c87vc7ogk0t9dmqun3vgptcicjjs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqyNY-bkdKws7_N_hs1aYHBg6nIRoU49w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
