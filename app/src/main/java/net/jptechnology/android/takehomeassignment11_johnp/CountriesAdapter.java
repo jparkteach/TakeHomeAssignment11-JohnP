@@ -13,7 +13,7 @@ public class CountriesAdapter extends RecyclerView.Adapter<CountryViewHolder> {
     private List<Country> countries;
     private Context context;
 
-    public CountriesAdapter(List<Country> country, Context context) {
+    public CountriesAdapter(List<Country> countries, Context context) {
         this.countries = countries;
         this.context = context;
     }
