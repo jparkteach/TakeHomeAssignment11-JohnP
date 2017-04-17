@@ -17,7 +17,7 @@
             android:layout_alignParentLeft="true"
             android:layout_alignParentTop="true"
             android:layout_marginRight="16dp"
-            tools:src="@drawable/UnitedStates" />
+            tools:src="@drawable/unitedstates" />
 
         <TextView
             android:id="@+id/country_name"
@@ -34,7 +34,7 @@
             android:layout_height="50dp"
             android:layout_toRightOf="@id/country_logo"
             android:layout_below="@id/country_name"
-            tools:src="@drawable/USDollar" />
+            tools:src="@drawable/usdollar" />
 
         <TextView
             android:paddingTop="10dp"
