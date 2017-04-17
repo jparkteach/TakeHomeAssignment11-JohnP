@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         recyclerView.setAdapter(countriesAdapter);
     }
 
-    public void addRandomVendor(View view) {
+    public void addRandomCountry(View view) {
         countries.add(getRandomCountry());
         countriesAdapter.notifyDataSetChanged();
     }
